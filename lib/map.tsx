@@ -1,3 +1,5 @@
+import react from 'react';
+
 export default {
   map_title: 'The Path Forward',
   map_content: 'Isolated we are all each but an island. Together, we shine. It’s more than a game.',
