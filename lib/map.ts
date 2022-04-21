@@ -1,5 +1,3 @@
-import react from 'react';
-
 export default {
   map_title: 'The Path Forward',
   map_content: 'Isolated we are all each but an island. Together, we shine. It’s more than a game.',
@@ -82,13 +80,9 @@ export default {
   map_item5_InfoTitle: 'Join the Team',
   map_item5_InfoContent1: '(Full time / Part time) Looking for community leaders to assist managing our growing community of passionate humans revolutionizing how game creates value.',
   map_item5_InfoContent2: 'This is a highly visible role with our user base and the broader ecosystem.',
-  map_item5_InfoContent3: 'You will:',
-  map_item5_InfoContent4: 'Lead community initiatives to educate and grow our larger user base and key audiences.',
-  map_item5_InfoContent5: 'Engage with 14C’s community in a meaningful way by responding to customer questions, managing support requests, hosting office hour calls, and leading fun community engagement programs via Discord and Twitter.',
-  map_item5_InfoContent6: 'Work cross-functionally with customer, partnerships, and legal teams to turn community engagement into active game development opportunities.',
-  map_item5_InfoContent7: 'Requirements:',
-  map_item5_InfoContent8: 'Deeply passionate about game and crypto with a strong understanding of the community behaviors.',
-  map_item5_InfoContent9: 'Self starter and can work effectively in a fast-paced remote environment with flexible working hours',
-  map_item5_InfoContent10: 'Nice to have prior experience contributing to GameFi or other DAO communities',
-  map_item5_InfoContent11: 'Contact us in Twitter & Discord',
+  map_item5_InfoContent3: 'Requirements:',
+  map_item5_InfoContent4: 'Deeply passionate about game and crypto with a strong understanding of the community behaviors.',
+  map_item5_InfoContent5: 'Self starter and can work effectively in a fast-paced remote environment with flexible working hours',
+  map_item5_InfoContent6: 'Nice to have prior experience contributing to GameFi or other DAO communities',
+  map_item5_InfoContent7: 'Contact us in Twitter & Discord',
 }
