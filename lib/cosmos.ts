@@ -37,7 +37,7 @@ export default {
   fourthScreen_item5_title: 'Community',
   fourthScreen_item5_content: 'Metaverse believer & sustainability expert with a BA from Harvard.',
 
-  fourthScreen_item6_name: 'Matrix Lab',
+  fourthScreen_item6_name: 'Matrix Labs',
   fourthScreen_item6_title: 'Engineer',
   fourthScreen_item6_content: 'Founded in Vancouver in 2017, multi- chain developer bringing cutting - edge research to real - world issues.',
 
