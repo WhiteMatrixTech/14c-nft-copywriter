@@ -1,44 +1,58 @@
 export default {
-  firstScreen_title: 'Torch the Night.',
-  firstScreen_content1: 'Decades after the Scarlet Calamity caused by environmental hazards and bio- nuclear warfare, humanity gathered again in the comfort and modern life of Satellite Cities, having regained the ability to communicate.However, expansive territories are still occupied by the Crazed while Weirdlings continue to spawn at places of intense emotions.The world is neither here nor there.',
-  firstScreen_content2: 'Build. Consume. Deal. Conspire. Ally. Fight.',
-  firstScreen_content3: 'As one of the 10,000 genesis Shimmers, you belong to a small number of those born in the new era who have gained the ability to communicate through light.',
-  firstScreen_content4: 'Do not go gentle into that good night.',
+  cosmos_firstScreen_title: 'Torch the Night.',
+  cosmos_firstScreen_content1: 'Decades after the <b><u>Scarlet Calamity</u></b> caused by environmental hazards and bio - nuclear warfare, humanity gathered again in the comfort and modern life of <b><u>Satellite Cities</u></b>, having regained the ability to communicate.However, expansive territories of Cosmos are still occupied by the <b><u>Crazed</u></b> while <b><u>Weirdlings</u></b> continue to spawn at places of intense emotions.',
+  cosmos_firstScreen_content2: 'Build. Consume. Deal. Conspire. Ally. Battle.',
+  cosmos_firstScreen_content3: 'As one of the genesis <b><u>Shimmers</u></b>, you belong to a small number of those born in the new era who have gained the ability to communicate through light.',
+  cosmos_firstScreen_content4: 'Do not go gentle into that good night.',
 
-  secondScreen_title1: 'Build Satellite City',
-  secondScreen_content1: 'Gather, farm, and hunt for the ingredients of civilization. You’ll need food, clean water, fuel, and minerals among others to resurrect humanity.Leverage the various deep tech developed by the Cult of Science, train your guards, and recruit champions to lead your envoy.',
-  secondScreen_title2: 'Navigate Spheres of Influence',
-  secondScreen_content2: ' The Realms Between can be treacherous. Whether hunting The Crazed and Weirdlings for resources or raid hostile Shimmers for theirs, it’s helpful to join up with similar minded peers.Form your own sphere of influence(alliance) or join an existing one to take advantage of the power of community.',
+  cosmos_secondScreen_title1: 'Build Satellite City',
+  cosmos_secondScreen_content1: 'Gather, farm, and hunt for the ingredients of civilization. You’ll need food, clean water, fuel, and minerals among others to resurrect humanity. Leverage the various deep tech developed by the Cult of Science, train your guards, and recruit champions to lead your envoy.',
+  cosmos_secondScreen_title2: 'Navigate Cosmos with Your Alliances',
+  cosmos_secondScreen_content2: 'The wasteland of Cosmos can be treacherous. Whether hunting the Crazed and Weirdlings for resources or raiding hostile Shimmers for theirs, it’s helpful to join up with similar-minded peers. Form your own Alliance or join an existing one to take advantage of the power of the community.',
+  cosmos_secondScreen_title3: 'Veni Vidi Vici! Take the Center City!',
+  cosmos_secondScreen_content3: 'The Center Cities lie at the strategic heart zones of the Cosmos and are the crown jewels for every Alliance to fight for. Together, let us rule the world.',
 
-  thirdScreen_title1: 'Shimmers',
-  thirdScreen_content1: 'The 10,000 genesis Shimmers have the unique capability to control the flow of time in Cosmos, allowing for more rapid development of your Satellite City..',
-  thirdScreen_title2: '14C Club',
-  thirdScreen_content2: 'The avatars also double as membership to the 14C Club, our most supportive gamer and contributor group.We skate between the physical reality and the 14C world, promoting sustainability development and preventing real natural disasters.',
 
-  fourthScreen_title: 'Team',
+  cosmos_thirdScreen_title: '14C is an MMOSLG (Massively Multiplayer Online Simulation Game)',
+  cosmos_thirdScreen_content1: '14C is offering 10,000 PFP NFT on FLOW blockchain at end of May, 2022. It will be minted on this 14C official website. Hodlers will be entitled to the below benefits:',
+  cosmos_thirdScreen_content2: 'Life-long acceleration buff for in-game hunting, production & building;',
+  cosmos_thirdScreen_content3: 'Privilege reserve for future game assets launched in the 14C universe;',
+  cosmos_thirdScreen_content4: 'Membership in 14C Club, a real-world premier lifestyle club that is to reward the earliest, most supportive gamers, and most creative community and contributors;',
+  cosmos_thirdScreen_content5: 'More on-chain and physical benefits to come!',
+  cosmos_thirdScreen_content6: 'Stay tuned with our Twitter and Instagram. Join our Discord for Whitelist and more.',
 
-  fourthScreen_item1_name: 'Jake',
-  fourthScreen_item1_title: 'Game Dev',
-  fourthScreen_item1_content: 'Development for Clash of Kings, one the top grossing apps on the iOS and Google Play with 65m downloads in year one.',
 
-  fourthScreen_item2_name: 'Yo-u San',
-  fourthScreen_item2_title: 'Art Design',
-  fourthScreen_item2_content: 'Art design for Final Fantasy XIII, Dissidia Final Fantasy, Kingdom Hearts 3D, and Final Fantasy XV.',
 
-  fourthScreen_item3_name: 'Jonathan',
-  fourthScreen_item3_title: 'Game Ops',
-  fourthScreen_item3_content: 'Founded a major ACG community with 10m registered users, sold to listed tech company.',
 
-  fourthScreen_item4_name: 'Petey',
-  fourthScreen_item4_title: 'Community',
-  fourthScreen_item4_content: 'Part-time fiction novelist with a medical PhD from Johns Hopkins.',
 
-  fourthScreen_item5_name: 'Beaverly Hail',
-  fourthScreen_item5_title: 'Community',
-  fourthScreen_item5_content: 'Metaverse believer & sustainability expert with a BA from Harvard.',
+  cosmos_fourthScreen_title: 'Team',
 
-  fourthScreen_item6_name: 'Matrix Labs',
-  fourthScreen_item6_title: 'Engineer',
-  fourthScreen_item6_content: 'Founded in Vancouver in 2017, multi- chain developer bringing cutting - edge research to real - world issues.',
+  cosmos_fourthScreen_item1_name: 'Jake',
+  cosmos_fourthScreen_item1_title: 'Game Dev',
+  cosmos_fourthScreen_item1_content: 'Development for Clash of Kings, one the top grossing apps on the iOS and Google Play with 65m downloads in year one.',
+
+  cosmos_fourthScreen_item2_name: 'Yo-u San',
+  cosmos_fourthScreen_item2_title: 'Art Design',
+  cosmos_fourthScreen_item2_content: 'Led art design for Final Fantasy XIII, <a href="https://twitter.com/DissidiaFFOO" target="view_window">Dissidia Final Fantasy</a>, Kingdom Hearts 3D, & <a href="https://twitter.com/FFXVEN" target="view_window">Final Fantasy XV</a>.',
+
+  cosmos_fourthScreen_item3_name: 'Jonathan',
+  cosmos_fourthScreen_item3_title: 'Game Ops',
+  cosmos_fourthScreen_item3_content: ' Founded and ran a major Asian ACG community with 10,000,000 registered users, and sold to a listed tech company.Sliding into Web3.0',
+
+  cosmos_fourthScreen_item4_name: 'Petey',
+  cosmos_fourthScreen_item4_title: 'Game Script',
+  cosmos_fourthScreen_item4_content: 'Part-time fiction novelist with a medical PhD from Johns Hopkins.',
+
+  cosmos_fourthScreen_item5_name: 'Beaverly Hail',
+  cosmos_fourthScreen_item5_title: 'Community',
+  cosmos_fourthScreen_item5_content: ' Metaverse believer & sustainability investor. Former film actress.',
+
+  cosmos_fourthScreen_item6_name: 'Matrix Labs',
+  cosmos_fourthScreen_item6_title: 'Engineer',
+  cosmos_fourthScreen_item6_content: 'A first-class multi-chain developer. The backbone behind <a href="https://ezek.io/" target="view_window">PhantaBear</a> & the <a href="https://twitter.com/theMatrixWorld" target="view_window">Matrix World</a>.',
+
+  cosmos_fourthScreen_item7_name: 'Popfield',
+  cosmos_fourthScreen_item7_title: 'Game Asset Mgmt',
+  cosmos_fourthScreen_item7_content: 'A one-stop crypto asset manager supported by <a href="https://twitter.com/Forbes" target="view_window">Forbes</a> and <a href="https://twitter.com/tdx_strategies" target="view_window">TDX Strategies</a> (an <a href="https://twitter.com/FTX_Official" target="view_window">FTX</a> Venture portfolio)',
 
 }
