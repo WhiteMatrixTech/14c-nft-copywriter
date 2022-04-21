@@ -29,7 +29,7 @@ export default {
 
   cosmos_fourthScreen_item1_name: 'Jake',
   cosmos_fourthScreen_item1_title: 'Game Dev',
-  cosmos_fourthScreen_item1_content: 'Development for Clash of Kings, one the top grossing apps on the iOS and Google Play with 65m downloads in year one.',
+  cosmos_fourthScreen_item1_content: 'Development for <a href="https://twitter.com/ClashofKingsCoK" target="view_window">Clash of Kings</a>, one the top grossing apps on the iOS and Google Play with 65,000,000 times of downloads in Year One.',
 
   cosmos_fourthScreen_item2_name: 'Yo-u San',
   cosmos_fourthScreen_item2_title: 'Art Design',
