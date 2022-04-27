@@ -88,8 +88,8 @@ export default {
   map_item5_InfoContent1: '(Full time/Part time) Looking for community leaders to assist in managing our growing community of passionate humans revolutionizing how game creates value.',
   map_item5_InfoContent2: 'This is a highly visible role with our user base and the broader ecosystem.',
   map_item5_InfoContent3: 'Requirements:',
-  map_item5_InfoContent4: 'Deeply passionate about gaming and crypto with a strong understanding of the community behaviors.',
-  map_item5_InfoContent5: 'Self starter and can work effectively in a fast-paced remote environment with flexible working hours',
+  map_item5_InfoContent4: 'Deeply passionate about gaming and crypto with a strong understanding of the community behavior.',
+  map_item5_InfoContent5: 'Self initiative and can work effectively in a fast-paced remote environment with flexible working hours',
   map_item5_InfoContent6: 'Nice to have prior experience contributing to GameFi or other DAO communities',
   map_item5_InfoContent7: 'Contact us on Twitter & Discord',
 }
