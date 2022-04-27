@@ -29,11 +29,11 @@ export default {
 
   cosmos_fourthScreen_item1_name: 'Jake',
   cosmos_fourthScreen_item1_title: 'Game Dev',
-  cosmos_fourthScreen_item1_content: 'Developer for <a href="https://twitter.com/ClashofKingsCoK" target="view_window">Clash of Kings</a>, one of the top grossing apps on iOS and Google Play with 65,000,000 downloads in the first year.',
+  cosmos_fourthScreen_item1_content: 'Developer of <a href="https://twitter.com/ClashofKingsCoK" target="view_window">Clash of Kings</a>, one of the top grossing apps on iOS and Google Play with 65,000,000 downloads in the first year.',
 
   cosmos_fourthScreen_item2_name: 'Yo-u San',
   cosmos_fourthScreen_item2_title: 'Art Design',
-  cosmos_fourthScreen_item2_content: 'Art director for Final Fantasy XIII, <a href="https://twitter.com/DissidiaFFOO" target="view_window">Dissidia Final Fantasy</a>, Kingdom Hearts 3D, & <a href="https://twitter.com/FFXVEN" target="view_window">Final Fantasy XV</a>.',
+  cosmos_fourthScreen_item2_content: 'Art director of Final Fantasy XIII, <a href="https://twitter.com/DissidiaFFOO" target="view_window">Dissidia Final Fantasy</a>, Kingdom Hearts 3D, & <a href="https://twitter.com/FFXVEN" target="view_window">Final Fantasy XV</a>.',
 
   cosmos_fourthScreen_item3_name: 'Jonathan',
   cosmos_fourthScreen_item3_title: 'Game Ops',
