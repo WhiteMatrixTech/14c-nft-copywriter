@@ -29,19 +29,19 @@ export default {
 
   cosmos_fourthScreen_item1_name: 'Jake',
   cosmos_fourthScreen_item1_title: 'Game Dev',
-  cosmos_fourthScreen_item1_content: 'Development for <a href="https://twitter.com/ClashofKingsCoK" target="view_window">Clash of Kings</a>, one the top grossing apps on the iOS and Google Play with 65,000,000 times of downloads in Year One.',
+  cosmos_fourthScreen_item1_content: 'Developer for <a href="https://twitter.com/ClashofKingsCoK" target="view_window">Clash of Kings</a>, one of the top grossing apps on iOS and Google Play with 65,000,000 downloads in the first year.',
 
   cosmos_fourthScreen_item2_name: 'Yo-u San',
   cosmos_fourthScreen_item2_title: 'Art Design',
-  cosmos_fourthScreen_item2_content: 'Led art design for Final Fantasy XIII, <a href="https://twitter.com/DissidiaFFOO" target="view_window">Dissidia Final Fantasy</a>, Kingdom Hearts 3D, & <a href="https://twitter.com/FFXVEN" target="view_window">Final Fantasy XV</a>.',
+  cosmos_fourthScreen_item2_content: 'Art director for Final Fantasy XIII, <a href="https://twitter.com/DissidiaFFOO" target="view_window">Dissidia Final Fantasy</a>, Kingdom Hearts 3D, & <a href="https://twitter.com/FFXVEN" target="view_window">Final Fantasy XV</a>.',
 
   cosmos_fourthScreen_item3_name: 'Jonathan',
   cosmos_fourthScreen_item3_title: 'Game Ops',
-  cosmos_fourthScreen_item3_content: ' Founded and ran a major Asian ACG community with 10,000,000 registered users, and sold to a listed tech company.Sliding into Web3.0',
+  cosmos_fourthScreen_item3_content: ' Founded and ran a major Asian ACG community with 10,000,000 registered users, and sold to a listed tech company. Sliding into Web3.0',
 
   cosmos_fourthScreen_item4_name: 'Petey',
   cosmos_fourthScreen_item4_title: 'Game Script',
-  cosmos_fourthScreen_item4_content: 'Part-time fiction novelist with a medical PhD from Johns Hopkins.',
+  cosmos_fourthScreen_item4_content: 'Part-time fiction novelist with a medical PhD from Johns Hopkins University.',
 
   cosmos_fourthScreen_item5_name: 'Beaverly Hail',
   cosmos_fourthScreen_item5_title: 'Community',
