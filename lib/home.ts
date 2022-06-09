@@ -1,5 +1,5 @@
 export default {
-  home_marqueeContent: 'From the art director of the Final Fantasy series and the team behind Clash of Kings - The first AAA MMORTS game on blockchain, premiered on Flow.',
+  home_marqueeContent: 'From the art director of the Final Fantasy series and the team behind Clash of Kings - MMORTS game on blockchain, premiered on Flow.',
 
   home_disclaimer_title: 'Disclaimer',
   home_disclaimer_content_1: 'The information on this website is subject to change or update and should not be construed as a commitment, promise or guarantee by 14C Lab or any other individual or organization mentioned in this whitepaper relating to the future availability of services related to the use of the tokens or to their future performance or value.',
