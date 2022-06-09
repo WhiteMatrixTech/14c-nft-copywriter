@@ -14,7 +14,7 @@ export default {
 
 
   cosmos_thirdScreen_title: '14C is an MMOSLG (Massively Multiplayer Online Simulation Game)',
-  cosmos_thirdScreen_content1: '14C is offering 10,000 PFP NFT on FLOW blockchain at end of May, 2022. It will be minted on this 14C official website. Hodlers will be entitled to the below benefits:',
+  cosmos_thirdScreen_content1: '14C is offering 3000 PFP NFT on FLOW blockchain. It will be minted on this 14C official website. Hodlers will be entitled to the below benefits:',
   cosmos_thirdScreen_content2: 'Life-long acceleration buff for in-game hunting, production & building;',
   cosmos_thirdScreen_content3: 'Privilege reserve for future game assets launched in the 14C universe;',
   cosmos_thirdScreen_content4: 'Membership in 14C Club, a real-world premier lifestyle club that is to reward the earliest, most supportive gamers, and most creative community and contributors;',
